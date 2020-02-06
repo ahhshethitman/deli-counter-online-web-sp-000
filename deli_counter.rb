@@ -7,7 +7,8 @@ def line(katz_deli)
 end
 
 def take_a_number(array,name)
-end
+ puts "Welcome #{name} you are currently"
+
 
 def now_serving
 end
